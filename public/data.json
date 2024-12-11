@@ -1,0 +1,72 @@
+{
+    "projects": [
+      {
+        "name": "Editeur de code",
+        "technologies": ["React", "Redux", "Tailwind CSS"],
+        "repo": "Repo GitHub",
+        "description": "Développement d'un éditeur de code interactif avec gestion d'état via Redux."
+      },
+      {
+        "name": "Guess number",
+        "technologies": ["React", "Tailwind CSS"],
+        "repo": "Repo GitHub",
+        "description": "Création d'une application simple de devinette de nombre en utilisant React."
+      },
+      {
+        "name": "Galerie photos",
+        "technologies": ["React"],
+        "repo": "Repo GitHub",
+        "description": "Développement d'une galerie de photos interactive avec React."
+      },
+      {
+        "name": "Nextflix",
+        "technologies": ["Flutter"],
+        "repo": "Repo GitHub",
+        "description": "Clonage de l'interface de Netflix pour une application mobile avec Flutter."
+      },
+      {
+        "name": "Mobile Banking",
+        "technologies": [],
+        "documentation": "Document du projet",
+        "description": "Développement d'une solution de banque mobile permettant la gestion des comptes utilisateurs."
+      }
+    ],
+    "experiences": [
+      {
+        "title": "Freelance Consultant en Solution Excel",
+        "company": "SCAFRICA",
+        "responsibilities": [
+          "Nettoyage et optimisation des données pour améliorer la qualité et l'accessibilité.",
+          "Mise en place d’un outil de pointage des employés en fonction des projets."
+        ],
+        "description": "Consultant freelance pour la gestion des données et l'optimisation des outils de suivi des employés."
+      },
+      {
+        "title": "Freelance en Création de Site sur WordPress",
+        "responsibilities": [
+          "Création de site vitrine pour la présentation des œuvres publiées.",
+          "Création d’un site e-commerce pour la vente d’objets d’arts."
+        ],
+        "description": "Conception et développement de sites web vitrine et e-commerce pour des projets artistiques."
+      },
+      {
+        "title": "Freelance en UX/UI Design",
+        "responsibilities": [
+          "Amélioration de designs existants (sitemaps, couleurs, wireframes).",
+          "Création d'interfaces utilisateurs selon les meilleures pratiques UX/UI."
+        ],
+        "description": "Consultant freelance pour améliorer l'interface et l'expérience utilisateur de diverses applications."
+      },
+      {
+        "title": "Développeur Mobile",
+        "company": "Terinnova",
+        "responsibilities": [
+          "Création des différents écrans avec Flutter.",
+          "Utilisation des API pour intégrer des fonctionnalités externes.",
+          "Mise en place d'une architecture simple et réutilisable pour l'application mobile."
+        ],
+        "description": "Développeur mobile Flutter pour la création d'applications fonctionnelles et réactives."
+      }
+    ]
+  }
+  
